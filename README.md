@@ -25,4 +25,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# Calculadora \n <h2>Este projeto ‚ de estudo e inicia‡Æo em Angular.</h2>" 
+"# Calculadora \n <h2>ps: Este projeto Ã© de estudo e iniciaâ€¡Ã†o em Angular.</h2>" 
